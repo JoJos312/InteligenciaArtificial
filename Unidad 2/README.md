@@ -1,5 +1,7 @@
 Pasos mínimos para instalar PGMPY y ejecutar el programa
 
+Version de python 3.11.2
+
 1) Actualizar pip y herramientas:
 
 ```powershell
