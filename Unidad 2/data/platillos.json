@@ -1,0 +1,38 @@
+[
+  {
+    "id": "p1",
+    "name": "Pizza Margherita",
+    "ingredients": ["masa", "tomate", "mozzarella", "albahaca", "aceite de oliva"],
+    "available": true
+  },
+  {
+    "id": "p2",
+    "name": "Lasagna al Forno",
+    "ingredients": ["láminas de pasta", "salsa boloñesa", "bechamel", "queso parmesano", "carne molida"],
+    "available": true
+  },
+  {
+    "id": "p3",
+    "name": "Spaghetti alla Bolognese",
+    "ingredients": ["spaghetti", "salsa boloñesa", "carne molida", "tomate", "parmesano"],
+    "available": true
+  },
+  {
+    "id": "p4",
+    "name": "Risotto ai Funghi",
+    "ingredients": ["arroz arborio", "setas", "caldo", "vino blanco", "parmesano"],
+    "available": true
+  },
+  {
+    "id": "p5",
+    "name": "Bruschetta al Pomodoro",
+    "ingredients": ["pan", "tomate", "ajo", "albahaca", "aceite de oliva"],
+    "available": true
+  },
+  {
+    "id": "p6",
+    "name": "Tiramisú",
+    "ingredients": ["mascarpone", "café", "huevo", "azúcar", "cacao"],
+    "available": true
+  }
+]

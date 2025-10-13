@@ -1,0 +1,7 @@
+# Usar una versión publicada en PyPI. La versión 0.2.21 no está disponible;
+# pgmpy 1.0.0 es la versión moderna publicada y debería funcionar con el
+# código (si surgiera incompatibilidad podemos ajustarlo).
+pgmpy==1.0.0
+
+# Nota: tkinter suele venir con la instalación oficial de Python en Windows/macOS/linux
+# y no se instala via pip.

@@ -1,0 +1,14 @@
+{
+  "usuarios": {
+    "Prueba": {
+      "platos_gustan": [
+        "p6"
+      ],
+      "platos_no_gustan": [],
+      "ingredientes_gustan": [],
+      "alergias": [],
+      "restricciones": [],
+      "ingredientes_no_gustan": []
+    }
+  }
+}
