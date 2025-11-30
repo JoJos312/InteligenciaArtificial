@@ -1,3 +1,3 @@
 Video del modelo en funcionamiento
 
-<video src="video_prueba.mp4" width="320" height="240" controls></video>
+https://github.com/user-attachments/assets/8fece247-fcc0-418b-94fb-c96a52ecd918
