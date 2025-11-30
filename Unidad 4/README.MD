@@ -1,4 +1,3 @@
 Video del modelo en funcionamiento
-<video src="video_prueba.mp4" controls width="600">
-Tu navegador no soporta la reproducción de videos.
-</video>
+
+<video src="Unidad 4/video_prueba.mp4" width="320" height="240" controls></video>
